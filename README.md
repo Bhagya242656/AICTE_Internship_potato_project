@@ -4,7 +4,7 @@ This project uses computer vision to detect diseases in potato leaves, enabling 
 ## Key Features
 
 * Detects common potato leaf diseases such as Early Blight and Late Blight.
-* Employs a Convolutional Neural Network (CNN) model, specifically ResNet50, for accurate image classification.  *(Or mention your chosen model)*
+* Employs a Convolutional Neural Network (CNN) model, specifically ResNet50, for accurate image classification.  
 * Provides image-based detection for ease of use.
 
 ## Getting Started
